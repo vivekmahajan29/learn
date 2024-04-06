@@ -1,4 +1,4 @@
-[github](https://github.com/academind/github-actions-course-resources)
+[github-example](https://github.com/academind/github-actions-course-resources)
 
 
 ![key-elements.png](docs/key-elements.png)
