@@ -31,6 +31,6 @@ jobs:
 #        run: dotnet test --no-build --verbosity normal
       - uses: zyborg/dotnet-tests-report@v1
         with:
-          project_path: test/WeatherApi.Test
+          project_path: ./github-actions/weather-api/test/WeatherApi.Test
           report_name: weather-api-test
           report_title: WeatherApi Tests
