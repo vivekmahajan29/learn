@@ -34,3 +34,4 @@ jobs:
           project_path: ./github-actions/weather-api/test/WeatherApi.Test
           report_name: weather-api-test
           report_title: WeatherApi Tests
+          github_token: ${{ secrets.GITHUB_TOKEN }}
